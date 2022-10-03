@@ -1,6 +1,4 @@
-[
-  {
-    "access": true,
-    "name": "medispace"
-  }
-]
+{
+  "access": true,
+  "name": "medispace"
+}
